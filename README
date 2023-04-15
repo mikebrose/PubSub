@@ -1,0 +1,11 @@
+
+Building  
+
+A simple example of Publisher Subscriber pattern.
+Follows Mike Shah lecture here: <https://www.youtube.com/watch?v=4GU2YNsHrwg>
+
+- Create build folder
+- cd to build folder
+- $ cmake -S <path/to/PUBSUB> -B <path/to/build_folder> 
+- $ make
+
